@@ -1,0 +1,8 @@
+Identifier	Character	Dialogue	Filename	Line Number	Ren'Py Script
+start_dc5e0e37	to	やっと高校生になったな。時間が早すぎる.	game/script.rpy	33	"to ""[what]"""
+start_c58274e2	me	倫也君、お久しぶり！ともやくんも戸山高校に通ってたんだ.	game/script.rpy	38	"me ""[what]"""
+start_ff1410ae	to	本当に久しぶりだな.８年ぶりじゃん.	game/script.rpy	43	"to ""[what]"""
+scene2_7e1f7bb7	me	今日は何を勉強しますかな?	game/script.rpy	53	"me ""[what]"""
+scene2_2ee75b71	me	じゃ～、さっそく！	game/script.rpy	54	"me ""[what]"""
+scene2_7592898b	me	どうしてそういうことをしましたの？も！	game/script.rpy	57	"me ""[what]"""
+scene2_33c5fd3e	me	倫也のことすきだよ！	game/script.rpy	58	"me ""[what]"""
